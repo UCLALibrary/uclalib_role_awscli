@@ -1,0 +1,6 @@
+---
+- name: Install python pip
+  yum: name={{ pip }} state=present
+
+- name: Install AWS CLI
+  command: "{{ pip_bin }} install {{ pip_awspkg }}"
