@@ -1,0 +1,4 @@
+---
+pip: python-pip
+pip_awspkg: awscli
+pip_bin: /usr/bin/pip
