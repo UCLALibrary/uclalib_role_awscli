@@ -1,2 +1,2 @@
-- name: ansible_uclalib_role_epel
-  src: https://github.com/uclalibrary/ansible_uclalib_role_epel
+- name: uclalib_role_epel
+  src: https://github.com/uclalibrary/uclalib_role_epel

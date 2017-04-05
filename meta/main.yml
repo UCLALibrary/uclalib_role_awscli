@@ -1,4 +1,4 @@
 ---
 
 dependencies:
-  - { role: ansible_uclalib_role_epel }
+  - { role: uclalib_role_epel }
