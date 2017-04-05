@@ -30,7 +30,7 @@ A simple example playbook that overrides a default variable:
     - pip_bin: /usr/local/bin/pip
     
     roles:
-      - { role: uclalib_role_devtoolset4 }
+      - { role: uclalib_role_awscli }
 
 License
 -------
